@@ -22,14 +22,11 @@ Bu proje, ülkelerin çeşitli verilerini analiz ederek hangi ülkelerin finansa
 ### Ülkelere Göre Bütçe İhtiyacı (Needed Budget By Country)
 PCA ve sınıflandırma adımları sonucunda elde edilen verilerin coğrafi dağılımı aşağıdadır.
 
-![Dünya Haritası Çıktısı](<img width="1044" height="315" alt="Screenshot 2026-03-06 at 15 09 59" src="https://github.com/user-attachments/assets/765da092-772b-4414-8a13-19928534edef" />)
-
+![Dünya Haritası Çıktısı](https://github.com/user-attachments/assets/765da092-772b-4414-8a13-19928534edef)
 ### Korelasyon ve Dağılım Grafikleri
 Değişkenler arası ilişkileri gösteren diğer analiz çıktıları:
 
-![Korelasyon Tablosu](<img width="581" height="485" alt="Screenshot 2026-03-06 at 15 10 53" src="https://github.com/user-attachments/assets/c7a5e9aa-bf6e-43e8-9700-169ccd2ab5e9" />
-)
-
+<img src="https://github.com/user-attachments/assets/c7a5e9aa-bf6e-43e8-9700-169ccd2ab5e9" alt="Korelasyon Tablosu" width="50%" height="auto">
 ### Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarınızda çalıştırmak için:
