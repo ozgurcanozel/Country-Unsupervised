@@ -27,6 +27,7 @@ PCA ve sınıflandırma adımları sonucunda elde edilen verilerin coğrafi dağ
 Değişkenler arası ilişkileri gösteren diğer analiz çıktıları:
 
 <img src="https://github.com/user-attachments/assets/c7a5e9aa-bf6e-43e8-9700-169ccd2ab5e9" alt="Korelasyon Tablosu" width="50%" height="auto">
+
 ### Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarınızda çalıştırmak için:
