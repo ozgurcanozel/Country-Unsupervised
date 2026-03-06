@@ -1,5 +1,3 @@
-## Ülke Verileri Bütçe Analizi ve Sınıflandırma (Country Data Budget Analysis)
-
 Bu proje, ülkelerin çeşitli verilerini analiz ederek hangi ülkelerin finansal desteğe/bütçeye ihtiyacı olduğunu (Budget Needed, In Between, No Budget Needed) belirlemeyi amaçlayan bir makine öğrenmesi ve veri analitiği çalışmasıdır
 
 ### Proje Adımları
